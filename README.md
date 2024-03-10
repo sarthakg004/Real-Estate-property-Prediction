@@ -1,5 +1,6 @@
 # Real Estate Price Prediction Model
-[![Demo Video](http://img.youtube.com/vi/_DwNjB1-JWM/0.jpg)](https://youtu.be/_DwNjB1-JWM)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_DwNjB1-JWM" frameborder="0" allowfullscreen></iframe>
+
 ## Overview
 This project aims to provide a comprehensive solution for individuals interested in buying property in Gurgaon. It includes a recommender module, a price predictor module, and an analytics module to assist users in making informed decisions.
 
